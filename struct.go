@@ -1,5 +1,5 @@
-// Golang program to illustrate the
-// concept of custom types
+// structure i Golang
+//using as a class
 package main
 
 import (
